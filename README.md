@@ -51,12 +51,18 @@ To use the project:
 3. Run the appropriate scripts for data preparation, model development, and analysis.
 4. Evaluate the performance of the model and analyze results.
 5. Integrate the model into medical systems for enhanced patient care.
+## Graphs
+
+![Graph 1](/graph/5%20e%20in%201.png)
+![Graph 2](/graph/5%20e%20in%201%282%29.png)
+![Graph 3](/graph/all%20types%20in%201.png)
+![Graph 4](/graph/graph%202-%20e%20and%20n.png)
+![Graph 5](/graph/graph-1%20e%20and%20n.png)
+
 
 ## Contributors
 
-- [Your Name]: Project Lead and Developer
-- [Contributor 1 Name]: Data Analyst
-- [Contributor 2 Name]: Machine Learning Engineer
+- [Your Name]:Bhonsley Vishnu Sai 
 
 ## License
 
