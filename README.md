@@ -46,11 +46,10 @@ The project is organized into the following components:
 
 To use the project:
 
-1. Clone the repository: `git clone <repository_url>`
-2. Install the necessary dependencies: `pip install -r requirements.txt`
+1. Clone this repository
+2. Install the necessary dependencies
 3. Run the appropriate scripts for data preparation, model development, and analysis.
-4. Evaluate the performance of the model and analyze results.
-5. Integrate the model into medical systems for enhanced patient care.
+
 ## Graphs
 
 ![Graph 1](/graph/5%20e%20in%201.png)
