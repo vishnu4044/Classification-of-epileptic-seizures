@@ -61,8 +61,7 @@ To use the project:
 
 
 ## Contributors
-
-- [Your Name]:Bhonsley Vishnu Sai 
+Bhonsley Vishnu Sai 
 
 ## License
 
